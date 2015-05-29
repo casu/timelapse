@@ -6,4 +6,4 @@ This shell script takes all jpg files in the actual directory, rotates the pictu
 Needed tools:
 convert from Imagemagick and avconv (sudo apt-get install imagemagick libavtools).
 
-All jpg files have to be in the right alphabetic order.
+All jpg files have to be in the right alphabetic order and the script needs write permissons for the actual directory.
